@@ -1,3 +1,6 @@
+import os
+
+os.system('clear')
 name ='''\033[1;36m  _____   _____   _   __   _   _____  
 /  ___| /  _  \ | | |  \ | | /  ___/ 
 | |     | | | | | | |   \| | | |___  
@@ -16,6 +19,7 @@ name ='''\033[1;36m  _____   _____   _   __   _   _____
 insta:   x_nikename     Telegram:   @virusmain
 '''
 print (name)
+
 import getpass
 import amino
 e=input('\033[1;34m Enter Email:  ')
